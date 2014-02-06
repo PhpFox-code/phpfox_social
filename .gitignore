@@ -1,0 +1,8 @@
+*.tar
+*.exe
+*.zip
+*.tgz
+*.rar
+*.sql
+*.tar.gz
+.htaccess
